@@ -19,7 +19,7 @@ const app = Vue.createApp({
         },
         cadastrar() {
             this.cadastroRealizado = true;
-            console.log("Novo usuário cadastrado:", this.novoUsuario);
+            
             
         }
     }
